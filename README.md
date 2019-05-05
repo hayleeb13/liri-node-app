@@ -9,8 +9,16 @@
 * Any questions or issues regarding this program can be directed to Haylee Bell email hayleeb13@gmail.com.
 
 * Links to pictures of working code:
+* Input Example:
 https://github.com/hayleeb13/liri-node-app/blob/master/Example.PNG
+
+* With User Input:
 https://github.com/hayleeb13/liri-node-app/blob/master/event-this.PNG
 https://github.com/hayleeb13/liri-node-app/blob/master/do-what-it-says.PNG
 https://github.com/hayleeb13/liri-node-app/blob/master/movie-this.PNG
 https://github.com/hayleeb13/liri-node-app/blob/master/spotify-this-song.PNG
+
+* Without User Input:
+https://github.com/hayleeb13/liri-node-app/blob/master/event-this-noInput.PNG
+https://github.com/hayleeb13/liri-node-app/blob/master/movie-this-noInput.PNG
+https://github.com/hayleeb13/liri-node-app/blob/master/spotify-this-song-noInput.PNG
